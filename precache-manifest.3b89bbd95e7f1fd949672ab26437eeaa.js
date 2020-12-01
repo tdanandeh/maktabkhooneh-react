@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00734d76e99d4d75b616fec15afe31df",
+    "revision": "290c0655c86af99925f83b81f6e6ea93",
     "url": "/maktabkhooneh-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maktabkhooneh-react/static/css/2.81ceb5aa.chunk.css"
   },
   {
-    "revision": "a6a9ea58264e6b9a4852",
+    "revision": "6f92e1887cb374ffe8f8",
     "url": "/maktabkhooneh-react/static/css/main.56392cb7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maktabkhooneh-react/static/js/2.653a53db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6a9ea58264e6b9a4852",
-    "url": "/maktabkhooneh-react/static/js/main.e0ef8ef7.chunk.js"
+    "revision": "6f92e1887cb374ffe8f8",
+    "url": "/maktabkhooneh-react/static/js/main.1e39f2e7.chunk.js"
   },
   {
     "revision": "cc615474c04b4834b4b4",
